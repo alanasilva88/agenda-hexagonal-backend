@@ -74,7 +74,8 @@ O circuito funciona através de transformações de dados em cada fronteira do h
 
 A API possui documentação interativa completa integrada com o Swagger. Com o servidor rodando, você pode acessar o painel para testar todos os endpoints visualmente:
 
-* **URL do Swagger UI:** `http://localhost:8080/swagger-ui/index.html`
+* **URL do Swagger UI (Produção):** [Acessar Swagger na Nuvem](https://agenda-hexagonal-backend.onrender.com/swagger-ui/index.html)
+* **URL do Swagger UI (local):** `http://localhost:8080/swagger-ui/index.html`
 * **Console do Banco H2:** `http://localhost:8080/h2-console` *(JDBC URL: `jdbc:h2:mem:agenda`)*
 
 ### Endpoints Mapeados:
